@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A data-driven personal website
+About me
 ======
